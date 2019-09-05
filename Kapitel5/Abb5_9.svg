@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg2"
+   sodipodi:docname="Abb5_9.svg"
+   width="431.33594"
+   height="370.83856"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview4"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1.18"
+     inkscape:cx="241.09171"
+     inkscape:cy="78.186932"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+     x="0"
+     y="11.648438"
+     id="text817"><tspan
+       sodipodi:role="line"
+       id="tspan815"
+       x="0"
+       y="11.648438">&lt;?xml version=&quot;1.0&quot;?&gt;</tspan><tspan
+       sodipodi:role="line"
+       x="0"
+       y="31.648438"
+       id="tspan819">&lt;PMML version=&quot;4.4&quot;</tspan><tspan
+       sodipodi:role="line"
+       x="0"
+       y="51.648438"
+       id="tspan821">  xmlns=&quot;http://www.dmg.org/PMML-4_4&quot; </tspan><tspan
+       sodipodi:role="line"
+       x="0"
+       y="71.648438"
+       id="tspan823">  xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot;&gt;</tspan><tspan
+       sodipodi:role="line"
+       x="0"
+       y="91.648438"
+       id="tspan825"></tspan><tspan
+       sodipodi:role="line"
+       x="0"
+       y="111.64844"
+       id="tspan827">  &lt;Header copyright=&quot;Example.com&quot;/&gt;</tspan><tspan
+       sodipodi:role="line"
+       x="0"
+       y="131.64844"
+       id="tspan829">  &lt;DataDictionary&gt; ... &lt;/DataDictionary&gt;</tspan><tspan
+       sodipodi:role="line"
+       x="0"
+       y="151.64844"
+       id="tspan831"></tspan><tspan
+       sodipodi:role="line"
+       x="0"
+       y="171.64844"
+       id="tspan833">  ... a model ...</tspan><tspan
+       sodipodi:role="line"
+       x="0"
+       y="191.64844"
+       id="tspan835"></tspan><tspan
+       sodipodi:role="line"
+       x="0"
+       y="211.64844"
+       id="tspan837">&lt;/PMML&gt;</tspan><tspan
+       sodipodi:role="line"
+       x="0"
+       y="231.64844"
+       id="tspan839" /><tspan
+       sodipodi:role="line"
+       x="0"
+       y="251.64844"
+       id="tspan841"></tspan><tspan
+       sodipodi:role="line"
+       x="0"
+       y="271.64844"
+       id="tspan855">&lt;xs:schema</tspan><tspan
+       sodipodi:role="line"
+       x="0"
+       y="291.64844"
+       id="tspan843">    xmlns:xs=&quot;http://www.w3.org/2001/XMLSchema&quot;</tspan><tspan
+       sodipodi:role="line"
+       x="0"
+       y="311.64844"
+       id="tspan845">    targetNamespace=&quot;http://www.dmg.org/PMML-4_4&quot;</tspan><tspan
+       sodipodi:role="line"
+       x="0"
+       y="331.64844"
+       id="tspan847">    xmlns=&quot;http://www.dmg.org/PMML-4_4&quot;</tspan><tspan
+       sodipodi:role="line"
+       x="0"
+       y="351.64844"
+       id="tspan849">    elementFormDefault=&quot;unqualified&quot;&gt;</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
+     x="431.22137"
+     y="368.59375"
+     id="text853"><tspan
+       sodipodi:role="line"
+       id="tspan851"
+       x="431.22137"
+       y="368.59375"
+       style="font-size:10.66666698px;text-align:end;text-anchor:end">Quelle: http://dmg.org/pmml/v4-4/GeneralStructure.html abgerufen: 05.09.19</tspan></text>
+</svg>
