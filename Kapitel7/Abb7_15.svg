@@ -74,9 +74,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      scale-x="0.7"
-     inkscape:zoom="0.59"
-     inkscape:cx="557.8391"
-     inkscape:cy="433.69043"
+     inkscape:zoom="2.36"
+     inkscape:cx="1058.5202"
+     inkscape:cy="453.85056"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -327,15 +327,15 @@
        inkscape:connector-type="polyline"
        id="path1189"
        d="m 434.70082,-93.250873 29.82407,51.656802"
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+       style="fill:none;fill-rule:evenodd;stroke:#969696;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <path
        inkscape:connection-end="#g1175"
        inkscape:connection-start="#g1185"
        inkscape:connector-curvature="0"
        inkscape:connector-type="polyline"
        id="path1191"
-       d="m 506.84874,-93.250875 -29.82406,51.656804"
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+       d="m 506.84874,-93.250874 -29.82406,51.656803"
+       style="fill:none;fill-rule:evenodd;stroke:#969696;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <path
        inkscape:connection-end="#g1185"
        inkscape:connection-start="#g1180"
@@ -343,7 +343,7 @@
        inkscape:connector-type="polyline"
        id="path1193"
        d="m 440.95093,-104.07601 59.64771,0"
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+       style="fill:none;fill-rule:evenodd;stroke:#969696;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
   </g>
   <text
      xml:space="preserve"
@@ -368,12 +368,12 @@
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-     x="724.79102"
+     x="755.45264"
      y="13.757812"
      id="text1391"><tspan
        sodipodi:role="line"
        id="tspan1389"
-       x="724.79102"
+       x="755.45264"
        y="13.757812">Pharmakophor Übereinstimmung</tspan></text>
   <g
      id="g1605"
@@ -1139,7 +1139,7 @@
            style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#969696;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
       </g>
       <path
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="fill:none;fill-rule:evenodd;stroke:#969696;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 412.62273,-114.89906 18.05721,74.283714"
          id="path1189-9"
          inkscape:connector-type="polyline"
@@ -1147,7 +1147,7 @@
          inkscape:connection-start="#g1180-8"
          inkscape:connection-end="#g1175-0" />
       <path
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="fill:none;fill-rule:evenodd;stroke:#969696;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 422.17021,-127.04513 72.52084,0"
          id="path1193-5"
          inkscape:connector-type="polyline"
@@ -1181,7 +1181,7 @@
          inkscape:connector-type="polyline"
          id="path1790"
          d="m 507.15486,-114.54535 -0.0907,31.339077"
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         style="fill:none;fill-rule:evenodd;stroke:#969696;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <path
          inkscape:connection-end="#g1175-0"
          inkscape:connection-start="#g1175-0-5"
@@ -1189,7 +1189,7 @@
          inkscape:connector-type="polyline"
          id="path1792"
          d="m 496.19401,-64.47186 -51.72765,29.767942"
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         style="fill:none;fill-rule:evenodd;stroke:#969696;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <path
          inkscape:connection-end="#g1175-0-5"
          inkscape:connection-start="#g1180-8"
@@ -1197,7 +1197,7 @@
          inkscape:connector-type="polyline"
          id="path1878"
          d="m 420.48916,-120.78446 75.71981,43.817294"
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         style="fill:none;fill-rule:evenodd;stroke:#969696;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <path
          inkscape:connection-end="#g1175-0"
          inkscape:connection-start="#g1185-5"
@@ -1205,7 +1205,7 @@
          inkscape:connector-type="polyline"
          id="path1880"
          d="m 499.71545,-117.02709 -58.6074,78.539764"
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         style="fill:none;fill-rule:evenodd;stroke:#969696;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <text
          id="text1884"
          y="-133.13695"
