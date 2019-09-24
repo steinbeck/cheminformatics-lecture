@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg2"
+   sodipodi:docname="Abb10_23.svg"
+   width="543.20874"
+   height="317.95444"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path863"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1215"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1213"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1169"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1167"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1147"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1145"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview4"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1.18"
+     inkscape:cx="277.24689"
+     inkscape:cy="122.94781"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     x="106.52473"
+     y="182.51564"
+     id="text817"><tspan
+       sodipodi:role="line"
+       id="tspan815"
+       x="106.52473"
+       y="194.5257" /></text>
+  <g
+     id="g1434"
+     transform="translate(0,-5.9999979)">
+    <path
+       inkscape:connector-curvature="0"
+       id="path831"
+       d="M 218.38914,121.07496 V 164.2953"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Lstart)" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path831-7"
+       d="m 218.38914,164.2953 -37.42991,21.61017"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker1169)" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path831-7-2"
+       d="m 218.38914,164.2953 37.42991,21.61017"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker1147)" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+     x="257.07593"
+     y="231.81512"
+     id="text1275"><tspan
+       sodipodi:role="line"
+       id="tspan1273"
+       x="257.07593"
+       y="231.81512">Chemisch-physikalische Eigenschaften</tspan><tspan
+       sodipodi:role="line"
+       x="257.07593"
+       y="248.4818"
+       id="tspan1277">- globale Eigenschaften</tspan><tspan
+       sodipodi:role="line"
+       x="257.07593"
+       y="265.14847"
+       id="tspan1281">- Atomeigenschaften: </tspan><tspan
+       sodipodi:role="line"
+       x="257.07593"
+       y="281.81512"
+       id="tspan1297">Ladungen, Polarisierbarkeit, Elektronegativitäten</tspan><tspan
+       sodipodi:role="line"
+       x="257.07593"
+       y="298.48178"
+       id="tspan1287">- Molekulares, elektrostatisches Potential</tspan><tspan
+       sodipodi:role="line"
+       x="257.07593"
+       y="315.14847"
+       id="tspan1285">- Quanten-mechanische Energien</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     x="442.11795"
+     y="136.32919"
+     id="text1295"><tspan
+       sodipodi:role="line"
+       id="tspan1293"
+       x="442.11795"
+       y="148.33925" /></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+     x="-0.42317706"
+     y="231.81512"
+     id="text1301"><tspan
+       sodipodi:role="line"
+       id="tspan1299"
+       x="-0.42317706"
+       y="231.81512">Mathematische Transformation</tspan><tspan
+       sodipodi:role="line"
+       x="-0.42317706"
+       y="248.4818"
+       id="tspan1303">- 2D-Autokorrelation</tspan><tspan
+       sodipodi:role="line"
+       x="-0.42317706"
+       y="265.14847"
+       id="tspan1307">- 3D-Autokorrelation</tspan><tspan
+       sodipodi:role="line"
+       x="-0.42317706"
+       y="281.81512"
+       id="tspan1311">- Radiale Verteilungsfunktion</tspan><tspan
+       sodipodi:role="line"
+       x="-0.42317706"
+       y="298.48178"
+       id="tspan1313">- Autokorrelation von Oberflächenpuntken</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+     x="145.94449"
+     y="37.80941"
+     id="text1317"><tspan
+       sodipodi:role="line"
+       id="tspan1315"
+       x="145.94449"
+       y="37.80941">Geometrische Auflösung</tspan><tspan
+       sodipodi:role="line"
+       x="145.94449"
+       y="54.476078"
+       id="tspan1319">- Moleküloberflächen</tspan><tspan
+       sodipodi:role="line"
+       x="145.94449"
+       y="71.142738"
+       id="tspan1321">- 3D-Strukturen</tspan><tspan
+       sodipodi:role="line"
+       x="145.94449"
+       y="87.809402"
+       id="tspan1323">- 2D-Strukturen</tspan><tspan
+       sodipodi:role="line"
+       x="145.94449"
+       y="104.47607"
+       id="tspan1325">- 1D-Strukturen</tspan></text>
+  <g
+     id="g1370"
+     transform="translate(171.46117,115.68513)">
+    <text
+       id="text821"
+       y="-106.14086"
+       x="46.18644"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="-106.14086"
+         x="46.18644"
+         id="tspan819"
+         sodipodi:role="line">Physik</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path1339"
+       d="M 26.906779,-104.23729 H 66.949152"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </g>
+  <g
+     id="g1375"
+     transform="translate(131.94846,115.99022)">
+    <text
+       id="text825"
+       y="81.779663"
+       x="147.88136"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial"
+         y="81.779663"
+         x="147.88136"
+         id="tspan823"
+         sodipodi:role="line">Chemie</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path1339-3"
+       d="m 125.62288,83.898305 h 47.24576"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </g>
+  <g
+     id="g1365"
+     transform="translate(280.25355,142.897)">
+    <text
+       id="text829"
+       y="54.661018"
+       x="-136.86441"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="54.661018"
+         x="-136.86441"
+         id="tspan827"
+         sodipodi:role="line">Mathematik</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path1339-6"
+       d="m -170.4449,56.991523 h 67.58474"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </g>
+</svg>
